@@ -3,7 +3,7 @@ function getEasyWord(){
   var easyWords = [
   "wide",
   "goods",
-  "tufts"
+  "tufts",
     "same",
     "cove",
     "mask",
