@@ -7,5 +7,5 @@ function getEasyWord(){
 ];
 
 var randomItem = easyWords[Math.floor(Math.random()*easyWords.length)];
-  return randomItem;
+  document.getElementById("word").innerText = randomItem;
 }
