@@ -149,9 +149,50 @@ var randomItem = easyWords[Math.floor(Math.random()*easyWords.length)];
 
 function getMediumWord(){
   var mediumWords = [
-  "Art",
-  "Schol",
-  "Medium"
+  "detour",
+  "teachers",
+  "gusto",
+    "scarf",
+    "shimmery",
+    "blindfolded",
+    "clobbered",
+    "rattled",
+    "throat",
+    "scuba",
+    "absent",
+    "savor or savour",
+    "inclined",
+    "masthead",
+    "leghorn",
+    "crockery",
+    "neptune",
+    "lavished",
+    "nada",
+    "adorned",
+    "invasions",
+    "destination",
+    "scrawny",
+    "mulberry",
+    "weird",
+    "mutual",
+    "alibi",
+    "devious",
+    "flaxen",
+    "biome",
+    "cardigan",
+    "withered",
+    "lincon",
+    "tartan",
+    "wretched",
+    "expanse",
+    "contessa",
+    "wreaked",
+    "sudoku",
+    "exerts",
+    "reflexology",
+    "fetlocks",
+    "pulverized or pulverised"
+   
 ];
 
 var randomItem = mediumWords[Math.floor(Math.random()*mediumWords.length)];
